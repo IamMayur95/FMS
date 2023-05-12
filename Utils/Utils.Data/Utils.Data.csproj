@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<Configurations>Debug;Release;Swagger</Configurations>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.0.90" />
+		<PackageReference Include="EnterpriseLibrary.TransientFaultHandling.Data.NetCore" Version="6.0.1312" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.6" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Utils.Common\Utils.Common.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\bin\Release\net5.0\Utils.Data.deps.json
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\bin\Release\net5.0\Utils.Data.dll
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\bin\Release\net5.0\ref\Utils.Data.dll
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\bin\Release\net5.0\Utils.Data.pdb
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\bin\Release\net5.0\Utils.Common.dll
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\bin\Release\net5.0\Utils.Common.pdb
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.csprojAssemblyReference.cache
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.AssemblyInfoInputs.cache
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.AssemblyInfo.cs
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.csproj.CoreCompileInputs.cache
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.csproj.CopyComplete
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.dll
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\ref\Utils.Data.dll
+C:\FMS Desk Booking\fms-service-booking\Utils\Utils.Data\obj\Release\net5.0\Utils.Data.pdb
