@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FMS.Core.Common.Contracts\FMS.Core.Common.Contracts.csproj" />
+    <ProjectReference Include="..\FMS.Core.Common\FMS.Core.Common.csproj" />
+    <ProjectReference Include="..\FMS.Entities\FMS.Entities.csproj" />
+    <ProjectReference Include="..\Utils\Utils.Common\Utils.Common.csproj" />
+    <ProjectReference Include="..\Utils\Utils.Data\Utils.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="SeedData\" />
+  </ItemGroup>
+
+</Project>
