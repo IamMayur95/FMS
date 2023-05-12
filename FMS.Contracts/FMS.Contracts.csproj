@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FMS.Core.Common.Contracts\FMS.Core.Common.Contracts.csproj" />
+    <ProjectReference Include="..\FMS.Core.Common\FMS.Core.Common.csproj" />
+    <ProjectReference Include="..\FMS.Entities\FMS.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
