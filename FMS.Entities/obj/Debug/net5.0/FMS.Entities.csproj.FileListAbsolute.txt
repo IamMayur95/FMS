@@ -1,0 +1,57 @@
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\FMS.Entities.deps.json
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\ref\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\FMS.Entities.pdb
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\FMS.Core.Common.Contracts.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\Utils.Common.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\Utils.Data.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\FMS.Core.Common.Contracts.pdb
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\Utils.Common.pdb
+C:\FMS Desk Booking\fms-service\FMS.Entities\bin\Debug\net5.0\Utils.Data.pdb
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csprojAssemblyReference.cache
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.AssemblyInfoInputs.cache
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.AssemblyInfo.cs
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.CoreCompileInputs.cache
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.CopyComplete
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\ref\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service\FMS.Entities\obj\Debug\net5.0\FMS.Entities.pdb
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Entities.deps.json
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\ref\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Entities.pdb
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Core.Common.Contracts.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Common.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Data.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Core.Common.Contracts.pdb
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Common.pdb
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Data.pdb
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csprojAssemblyReference.cache
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.AssemblyInfoInputs.cache
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.AssemblyInfo.cs
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.CoreCompileInputs.cache
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.CopyComplete
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\ref\FMS.Entities.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.pdb
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Entities.deps.json
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Entities.dll
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Entities.pdb
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Core.Common.Contracts.dll
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Common.dll
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Data.dll
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\FMS.Core.Common.Contracts.pdb
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Common.pdb
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\bin\Debug\net5.0\Utils.Data.pdb
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.AssemblyReference.cache
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.AssemblyInfoInputs.cache
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.AssemblyInfo.cs
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.csproj.CopyComplete
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.dll
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\refint\FMS.Entities.dll
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\FMS.Entities.pdb
+C:\Users\A200232705\source\repos\fms-service-booking\FMS.Entities\obj\Debug\net5.0\ref\FMS.Entities.dll
