@@ -1,0 +1,11 @@
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\bin\Release\net5.0\FMS.Core.Common.Contracts.deps.json
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\bin\Release\net5.0\FMS.Core.Common.Contracts.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\bin\Release\net5.0\ref\FMS.Core.Common.Contracts.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\bin\Release\net5.0\FMS.Core.Common.Contracts.pdb
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\FMS.Core.Common.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\FMS.Core.Common.Contracts.AssemblyInfoInputs.cache
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\FMS.Core.Common.Contracts.AssemblyInfo.cs
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\FMS.Core.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\FMS.Core.Common.Contracts.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\ref\FMS.Core.Common.Contracts.dll
+C:\FMS Desk Booking\fms-service-booking\FMS.Core.Common.Contracts\obj\Release\net5.0\FMS.Core.Common.Contracts.pdb

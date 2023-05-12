@@ -1,0 +1,12 @@
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\bin\Debug\net5.0\BCMS.Core.Common.Contracts.deps.json
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\bin\Debug\net5.0\BCMS.Core.Common.Contracts.dll
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\bin\Debug\net5.0\ref\BCMS.Core.Common.Contracts.dll
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\bin\Debug\net5.0\BCMS.Core.Common.Contracts.pdb
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.AssemblyInfoInputs.cache
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.AssemblyInfo.cs
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.dll
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\ref\BCMS.Core.Common.Contracts.dll
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.pdb
+C:\BCMS_Source\bcms-api\BCMS.Core.Common.Contracts\obj\Debug\net5.0\BCMS.Core.Common.Contracts.csprojAssemblyReference.cache
