@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Npoi.Mapper" Version="3.5.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\FMS.Core.Common.Contracts\FMS.Core.Common.Contracts.csproj" />
+		<ProjectReference Include="..\Utils\Utils.Common\Utils.Common.csproj" />
+		<ProjectReference Include="..\Utils\Utils.Data\Utils.Data.csproj" />
+	</ItemGroup>
+
+</Project>
