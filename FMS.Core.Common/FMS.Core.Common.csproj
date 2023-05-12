@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Identity\**" />
+      <EmbeddedResource Remove="Identity\**" />
+      <None Remove="Identity\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <FrameworkReference Include="Microsoft.AspNetCore.App" />
+        <PackageReference Include="AutoMapper" Version="10.1.1" />
+        <PackageReference Include="OpenIddict" Version="3.0.4" />
+        <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.6" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.6" />
+        <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="5.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="5.0.6" />
+        <PackageReference Include="protobuf-net" Version="3.0.101" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\FMS.Core.Common.Contracts\FMS.Core.Common.Contracts.csproj" />
+        <ProjectReference Include="..\Utils\Utils.Data\Utils.Data.csproj" />
+    </ItemGroup>
+    
+</Project>
