@@ -1,0 +1,728 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.API\\BCTool.API.csproj": {}
+  },
+  "projects": {
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.API\\BCTool.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.API\\BCTool.API.csproj",
+        "projectName": "BCTool.API",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.API\\BCTool.API.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Services\\BCTool.Services.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Services\\BCTool.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Collection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Server.IIS": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj",
+        "projectName": "BCTool.Contracts",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj",
+        "projectName": "BCTool.Core.Common.Contracts",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj",
+        "projectName": "BCTool.Core.Common",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "OpenIddict": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[3.0.101, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Data\\BCTool.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Data\\BCTool.Data.csproj",
+        "projectName": "BCTool.Data",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Data\\BCTool.Data.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common\\BCTool.Core.Common.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj",
+        "projectName": "BCTool.Entities",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\BCTool.Entities.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Core.Common.Contracts\\BCTool.Core.Common.Contracts.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Npoi.Mapper": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Services\\BCTool.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Services\\BCTool.Services.csproj",
+        "projectName": "BCTool.Services",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Services\\BCTool.Services.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Contracts\\BCTool.Contracts.csproj"
+              },
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Data\\BCTool.Data.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\BCTool.Data\\BCTool.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Npoi.Mapper": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "System.DirectoryServices": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.DirectoryServices.AccountManagement": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj",
+        "projectName": "Utils.Common",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj",
+        "projectName": "Utils.Data",
+        "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\Utils.Data.csproj",
+        "packagesPath": "C:\\Users\\A92405699\\.nuget\\packages\\",
+        "outputPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A92405699\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj": {
+                "projectPath": "C:\\BC-Tool\\SourceCode\\bc-tool-api\\Utils\\Utils.Common\\Utils.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "EnterpriseLibrary.TransientFaultHandling.Data.NetCore": {
+              "target": "Package",
+              "version": "[6.0.1312, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
