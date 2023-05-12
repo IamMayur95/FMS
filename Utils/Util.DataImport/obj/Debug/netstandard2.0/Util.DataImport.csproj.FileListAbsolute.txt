@@ -1,0 +1,17 @@
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\bin\Debug\netstandard2.0\Util.DataImport.deps.json
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\bin\Debug\netstandard2.0\Util.DataImport.dll
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\bin\Debug\netstandard2.0\Util.DataImport.pdb
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.csprojAssemblyReference.cache
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.AssemblyInfoInputs.cache
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.AssemblyInfo.cs
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.csproj.CoreCompileInputs.cache
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.dll
+C:\BCMS_Source\bcms-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.pdb
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\bin\Debug\netstandard2.0\Util.DataImport.deps.json
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\bin\Debug\netstandard2.0\Util.DataImport.dll
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\bin\Debug\netstandard2.0\Util.DataImport.pdb
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.AssemblyInfoInputs.cache
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.AssemblyInfo.cs
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.csproj.CoreCompileInputs.cache
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.dll
+C:\BC-Tool\SourceCode\bc-tool-api\Utils\Util.DataImport\obj\Debug\netstandard2.0\Util.DataImport.pdb
