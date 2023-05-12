@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<Configurations>Debug;Release;Swagger</Configurations>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Security\**" />
+	  <EmbeddedResource Remove="Security\**" />
+	  <None Remove="Security\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Options" Version="5.0.0" />
+	</ItemGroup>
+
+</Project>

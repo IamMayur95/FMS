@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XncLlm1JaIaZP+Fh3i5w3sGZReLvs/yoIHQstaPC0xVaQy8s9Soepg/3ZlsmivWD1PHE3e5ix2wuXLYBDDOuRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A200232705\\source\\repos\\fms-service-booking\\Utils\\Utils.Common\\Utils.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A200232705\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\A200232705\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\A200232705\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\A200232705\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\A200232705\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\A200232705\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
