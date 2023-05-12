@@ -1,0 +1,22 @@
+﻿using System;
+using FMS.Entities.Models.Enums;
+
+namespace FMS.Entities.DTOs
+{
+    public class UserPreferencesDTO
+    {
+        public int Id { get; set; }
+        public int? UserId { get; set; }
+        public virtual UserDTO User { get; set; }
+        public UserPreferenceType UserPreferenceType { get; set; }
+        public virtual PreferenceTypeDTO PreferenceType { get; set; }
+        public int? LocationDetailId { get; set; }
+        public virtual LocationDetailDTO LocationDetail { get; set; }
+        public int? BuildingDetailId { get; set; }
+        public virtual BuildingDetailDTO BuildingDetail { get; set; }
+        public int? WingDetailId { get; set; }
+        public virtual WingDetailDTO WingDetail { get; set; }
+        public int? FloorDetailId { get; set; }
+        public virtual FloorDetailDTO FloorDetail { get; set; }
+    }
+}
